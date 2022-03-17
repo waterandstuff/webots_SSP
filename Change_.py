@@ -9,3 +9,6 @@ print("Jaja det godt Karl -_-")
 print("hmmm... Men hvad med et game league?")
 gnu_getopt
 #Hej Astrid
+
+
+print("fuck ja")
