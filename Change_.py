@@ -12,3 +12,4 @@ gnu_getopt
 
 
 print("fuck ja")
+print("fuck nej")
